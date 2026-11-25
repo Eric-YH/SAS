@@ -19,7 +19,6 @@ All programs were written and tested in SAS OnDemand for Academics (SAS Studio).
    (for example `/home/your_user_id/`).
 3. Run the programs within each day folder in order.
 
-The practice data files come from a paid course and are not included in this repository.
 
 ## Key takeaways
 
